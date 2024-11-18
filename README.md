@@ -1,3 +1,6 @@
+# Public-Repository 
+files for the class Public Repository
+
 ####[Week 7 Assignment](https://github.com/TylerKokott/Public-Repository/blob/gh-pages/Chemical_concavenator_2024_10_21_20_00_23.zip)
 The **Week 7 Assignment** generates an image of a lot of Rain clouds on a fully black background while also printing the text "**It's rainging it's pouring the old man is snoring.**".
 
